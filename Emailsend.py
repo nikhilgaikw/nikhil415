@@ -317,7 +317,7 @@ while True:
         print("INVALID INPUT......")
 
     choice = input("Do you want to continue (y/n) : ")
-    if choice == 'y' or choice == 'Y':
+    if choice == 'y' or  choice == 'Y':
         continue
     else:
-        break
+         break
